@@ -1,0 +1,18 @@
+#section-main{
+    width: 100%;
+}
+#main-div{
+    width: 100%;
+}
+#h1-1{
+    font-size: 500%;
+    position: relative;
+    margin-bottom: -200px;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 2px 2px 30px red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#img1{
+    width: 100%;
+}
